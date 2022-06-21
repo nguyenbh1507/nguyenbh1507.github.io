@@ -32,7 +32,7 @@ github_username:  nguyenbh1507
 # jekyll
 
 # Build settings
-theme: jekyll-theme-architect
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 
