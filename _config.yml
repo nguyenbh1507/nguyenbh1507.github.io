@@ -32,7 +32,7 @@ github_username:  nguyenbh1507
 # jekyll
 
 # Build settings
-theme: cayman
+theme: minimal
 plugins:
   - jekyll-feed
 
