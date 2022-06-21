@@ -32,7 +32,7 @@ github_username:  nguyenbh1507
 # jekyll
 
 # Build settings
-theme: minimal
+theme: merlot
 plugins:
   - jekyll-feed
 
