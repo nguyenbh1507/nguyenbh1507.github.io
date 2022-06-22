@@ -3,6 +3,7 @@ encoding: UTF-8
 exclude: ["*.gem", "*.gemspec", "Gemfile", "Gemfile.lock", "node_modules", "Rakefile", "starter-kit", "vendor"]
 lang: en # Language code as defined in _data/i18n.yml. en, en-gb, en-us, zh, zh-cn, zh-tw etc.
 permalink: /blog/:year/:month/:day/:title/
+remote_theme: yizeng/jekyll-theme-simple-texture
 
 whitelist: [jekyll-feed, jekyll-redirect-from, jekyll-seo-tag, jekyll-sitemap]
 plugins:
@@ -23,9 +24,9 @@ sass:
 # Site Data
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
-title: DATA CURIOSITY
-description: "The place that share everything we know"
-keywords: 'data, data science, machine learning'
+title: Simple Texture
+description: "A gem-based responsive simple texture styled Jekyll theme."
+keywords: 'jekyll,theme,gem-based,blog'
 author:
   name:
   job_title:
@@ -35,7 +36,7 @@ author:
     - name: facebook
       url:
     - name: github
-      url: https://github.com/datacuriosity
+      url: https://github.com/yizeng/jekyll-theme-simple-texture
     - name: instagram
       url:
     - name: linkedin
@@ -47,13 +48,13 @@ author:
     - name: vk
       url:
 home:
-  section1: <h1>DATA CURIOSITY</h1>
-  section2: <h2>The place that share everything we know</h2>
-  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/datacuriosity" title="View on GitHub"></a></div>
+  section1: <h1>Simple Texture</h1>
+  section2: <h2>A gem-based responsive simple texture styled Jekyll theme</h2>
+  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
 blog:
-#  cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
-#  cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License.
-#  footer_content: A gem-based responsive simple texture styled <a href="http://jekyllrb.com/">Jekyll</a> theme.
+  cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
+  cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
+  footer_content: A gem-based responsive simple texture styled <a href="http://jekyllrb.com/">Jekyll</a> theme.
 
 disqus:
   shortname: # e.g. yizeng
