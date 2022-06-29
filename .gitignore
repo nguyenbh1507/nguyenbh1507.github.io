@@ -18,3 +18,4 @@ yarn.lock
 .yardoc/
 .idea
 .jekyll-cache
+*backup*

@@ -1,2 +1,2 @@
-# Data Curiosity Blog
+# Python Plotly Dash Blog
 

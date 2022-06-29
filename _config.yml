@@ -23,19 +23,21 @@ sass:
 # Site Data
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
-title: DATA CURIOSITY
-description: "The place that share everything we know"
-keywords: 'data, data science, machine learning'
+title: PYTHON-PLOTLY-DASH
+#description: "The place that share everything we know"
+#keywords: 'data, data science, machine learning'
+description: "Ngàn lời anh chối không bằng một tối trực quan"
+keywords: 'data science, machine learning, data visualization, Plotly, Dash, trực quan hóa'
 author:
-  name:
-  job_title:
-  location:
-  email:
+  name: Nguyễn Bảo Hưng
+  job_title: Data Scientist
+  location: Ho Chi Minh City
+  email: baohung.ng@gmail.com
   social_links:
     - name: facebook
-      url:
+      url: https://www.facebook.com/faotomsk
     - name: github
-      url: https://github.com/datacuriosity
+      url: https://github.com/nguyenbh1507/nguyenbh1507.github.io
     - name: instagram
       url:
     - name: linkedin
@@ -47,9 +49,9 @@ author:
     - name: vk
       url:
 home:
-  section1: <h1>DATA CURIOSITY</h1>
-  section2: <h2>The place that share everything we know</h2>
-  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/datacuriosity" title="View on GitHub"></a></div>
+  section1: <h1>PYTHON PLOTLY DASH</h1>
+  section2: <h2>Hướng dẫn sử dụng Plotly và Dash với Python bằng tiếng Việt</h2>
+  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/nguyenbh1507/nguyenbh1507.github.io" title="View on GitHub"></a></div>
 blog:
 #  cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
 #  cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License.
